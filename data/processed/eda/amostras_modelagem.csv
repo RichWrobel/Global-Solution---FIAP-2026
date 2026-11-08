@@ -1,0 +1,5 @@
+﻿variaveis,observacoes,entidades,anos
+acesso_eletricidade + mortalidade_infantil,6226,202,35
+combustiveis_limpos + mortalidade_infantil,4875,195,25
+combustiveis_limpos + mortalidade_infantil + pib_per_capita,4748,192,25
+combustiveis_limpos + mortalidade_infantil + pib_per_capita + escolaridade,612,143,5

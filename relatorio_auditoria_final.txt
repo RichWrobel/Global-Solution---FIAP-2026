@@ -1,0 +1,154 @@
+
+===========================================================================
+1. VERIFICAÇÃO DE ARQUIVOS
+===========================================================================
+OK | requirements.txt
+OK | src/app.py
+OK | src/modelo_ccemg.py
+OK | src/modelo_efeitos_fixos_v3.py
+OK | src/FrontEnd/componentes.py
+OK | src/FrontEnd/estilos.py
+OK | src/FrontEnd/grafico.py
+OK | data/raw/combustiveis_limpos.csv
+OK | data/raw/mortalidade_infantil.csv
+OK | data/processed/painel_owid_paises_v2.csv
+OK | data/processed/painel_clusters.csv
+OK | data/processed/ranking_vulnerabilidade_2020.csv
+OK | data/processed/comparacao_modelos_v3.csv
+OK | data/processed/modelo_ccemg/comparacao_mean_group_ccemg.csv
+OK | data/processed/modelo_ccemg/coeficientes_por_pais.csv
+OK | data/processed/modelo_ccemg/bootstrap_coeficientes_por_pais.csv
+OK | data/processed/modelo_ccemg/auditoria_influencia_haiti_somalia.csv
+OK | figuras/previsao_lstm.png
+
+===========================================================================
+2. BIBLIOTECAS PYTHON
+===========================================================================
+OK | streamlit
+OK | plotly
+OK | pandas
+OK | numpy
+OK | sklearn
+OK | statsmodels
+OK | scipy
+OK | matplotlib
+OK | seaborn
+OK | requests
+
+===========================================================================
+3. COMPILAÇÃO DOS CÓDIGOS
+===========================================================================
+Arquivos Python encontrados: 40
+Resultado da compilação: OK
+
+
+data/processed/painel_owid_paises_v2.csv
+Dimensões: (18842, 9)
+Colunas: ['Entity', 'Code', 'Year', 'acesso_eletricidade', 'combustiveis_limpos', 'escolaridade', 'mortalidade_infantil', 'pib_per_capita', 'tipo_entidade']
+
+data/processed/painel_clusters.csv
+Dimensões: (142, 9)
+Colunas: ['Pais', 'Ano', 'combustiveis_limpos', 'mortalidade_infantil', 'pib_per_capita', 'acesso_eletricidade', 'escolaridade', 'cluster', 'perfil']
+
+data/processed/ranking_vulnerabilidade_2020.csv
+Dimensões: (142, 14)
+Colunas: ['posicao', 'Pais', 'Ano', 'combustiveis_limpos', 'mortalidade_infantil', 'pib_per_capita', 'acesso_eletricidade', 'escolaridade', 'cluster', 'perfil', 'score_combustiveis', 'score_eletricidade', 'score_mortalidade', 'indice_vulnerabilidade']
+
+data/processed/comparacao_modelos_v3.csv
+Dimensões: (3, 7)
+Colunas: ['modelo', 'observacoes', 'entidades', 'anos', 'coef_combustiveis', 'p_combustiveis', 'r2']
+
+data/processed/modelo_ccemg/comparacao_mean_group_ccemg.csv
+Dimensões: (12, 11)
+Colunas: ['modelo', 'limite_minimo_observacoes', 'variavel', 'paises_estimados', 'coeficiente_medio', 'desvio_padrao_coeficientes', 'erro_padrao_mean_group', 'estatistica_t', 'p_valor', 'ic95_inferior', 'ic95_superior']
+
+data/processed/modelo_ccemg/bootstrap_coeficientes_por_pais.csv
+Dimensões: (6, 7)
+Colunas: ['modelo', 'limite_minimo', 'paises', 'media_original', 'ic95_inferior', 'ic95_superior', 'inclui_zero']
+
+===========================================================================
+4. INTEGRIDADE E DIMENSÕES DAS BASES
+===========================================================================
+
+data/processed/painel_owid_paises_v2.csv
+Dimensões: (18842, 9)
+Colunas: ['Entity', 'Code', 'Year', 'acesso_eletricidade', 'combustiveis_limpos', 'escolaridade', 'mortalidade_infantil', 'pib_per_capita', 'tipo_entidade']
+
+data/processed/painel_clusters.csv
+Dimensões: (142, 9)
+Colunas: ['Pais', 'Ano', 'combustiveis_limpos', 'mortalidade_infantil', 'pib_per_capita', 'acesso_eletricidade', 'escolaridade', 'cluster', 'perfil']
+
+data/processed/ranking_vulnerabilidade_2020.csv
+Dimensões: (142, 14)
+Colunas: ['posicao', 'Pais', 'Ano', 'combustiveis_limpos', 'mortalidade_infantil', 'pib_per_capita', 'acesso_eletricidade', 'escolaridade', 'cluster', 'perfil', 'score_combustiveis', 'score_eletricidade', 'score_mortalidade', 'indice_vulnerabilidade']
+
+data/processed/comparacao_modelos_v3.csv
+Dimensões: (3, 7)
+Colunas: ['modelo', 'observacoes', 'entidades', 'anos', 'coef_combustiveis', 'p_combustiveis', 'r2']
+
+data/processed/modelo_ccemg/comparacao_mean_group_ccemg.csv
+Dimensões: (12, 11)
+Colunas: ['modelo', 'limite_minimo_observacoes', 'variavel', 'paises_estimados', 'coeficiente_medio', 'desvio_padrao_coeficientes', 'erro_padrao_mean_group', 'estatistica_t', 'p_valor', 'ic95_inferior', 'ic95_superior']
+
+data/processed/modelo_ccemg/bootstrap_coeficientes_por_pais.csv
+Dimensões: (6, 7)
+Colunas: ['modelo', 'limite_minimo', 'paises', 'media_original', 'ic95_inferior', 'ic95_superior', 'inclui_zero']
+
+===========================================================================
+5. PERFIS DOS PAÍSES E TERRITÓRIOS
+===========================================================================
+perfil
+3. Consolidado (Alto Acesso)         95
+1. Alta Prioridade (Baixo Acesso)    24
+2. Em Transição                      23
+
+===========================================================================
+6. COMPARAÇÃO DOS MODELOS
+===========================================================================
+                        modelo  observacoes  entidades  anos  coef_combustiveis  p_combustiveis       r2
+                     Principal         4723        191    25          -0.010377        0.346914 0.893658
+Amostra comum sem escolaridade          607        142     5          -0.006305        0.745001 0.921072
+Amostra comum com escolaridade          607        142     5          -0.005191        0.791060 0.923504
+
+===========================================================================
+7. RESULTADOS MG E CCEMG
+===========================================================================
+modelo  limite_minimo_observacoes            variavel  paises_estimados  coeficiente_medio  desvio_padrao_coeficientes  erro_padrao_mean_group  estatistica_t  p_valor  ic95_inferior  ic95_superior
+    MG                         10 Combustíveis limpos               181          -0.005773                    0.248016                0.018435      -0.313135 0.754541      -0.042149       0.030604
+    MG                         10    Logaritmo do PIB               181          -0.544532                    2.829345                0.210304      -2.589265 0.010405      -0.959509      -0.129554
+ CCEMG                         10 Combustíveis limpos               181          -0.012174                    0.231892                0.017236      -0.706303 0.480913      -0.046186       0.021837
+ CCEMG                         10    Logaritmo do PIB               181          -0.506318                    2.822538                0.209798      -2.413366 0.016809      -0.920298      -0.092339
+    MG                         15 Combustíveis limpos               179          -0.006017                    0.249393                0.018641      -0.322798 0.747227      -0.042802       0.030768
+    MG                         15    Logaritmo do PIB               179          -0.550120                    2.844686                0.212622      -2.587317 0.010471      -0.969704      -0.130536
+ CCEMG                         15 Combustíveis limpos               179          -0.012215                    0.233189                0.017429      -0.700824 0.484328      -0.046610       0.022180
+ CCEMG                         15    Logaritmo do PIB               179          -0.513874                    2.837427                0.212079      -2.423027 0.016394      -0.932387      -0.095361
+    MG                         20 Combustíveis limpos               178          -0.005591                    0.250031                0.018741      -0.298328 0.765803      -0.042575       0.031393
+    MG                         20    Logaritmo do PIB               178          -0.549886                    2.852709                0.213820      -2.571729 0.010941      -0.971850      -0.127922
+ CCEMG                         20 Combustíveis limpos               178          -0.011903                    0.233809                0.017525      -0.679193 0.497903      -0.046487       0.022682
+ CCEMG                         20    Logaritmo do PIB               178          -0.513323                    2.845422                0.213273      -2.406877 0.017118      -0.934209      -0.092437
+
+===========================================================================
+8. BOOTSTRAP DOS COEFICIENTES
+===========================================================================
+modelo  limite_minimo  paises  media_original  ic95_inferior  ic95_superior  inclui_zero
+ CCEMG             10     181       -0.012174      -0.049833       0.016058         True
+ CCEMG             15     179       -0.012215      -0.050672       0.016046         True
+ CCEMG             20     178       -0.011903      -0.050102       0.017105         True
+    MG             10     181       -0.005773      -0.046018       0.024845         True
+    MG             15     179       -0.006017      -0.046833       0.024626         True
+    MG             20     178       -0.005591      -0.047355       0.025619         True
+
+===========================================================================
+9. VERIFICAÇÃO DO DASHBOARD
+===========================================================================
+ENCONTRADO | Análise Global
+ENCONTRADO | Evolução Histórica
+ENCONTRADO | Comparar Países
+ENCONTRADO | Previsão LSTM
+ENCONTRADO | previsao_lstm.png
+ENCONTRADO | ranking_vulnerabilidade_2020.csv
+
+===========================================================================
+10. CONTROLE DE VERS?O
+===========================================================================
+Publica??o pelo GitHub Desktop.

@@ -1,0 +1,16 @@
+{
+    "modelo": "LSTM global univariada",
+    "variavel": "Mortalidade de menores de cinco anos",
+    "janela_temporal": 5,
+    "treinamento_ate": 2014,
+    "validacao": "2015-2019",
+    "teste": "2020-2024",
+    "melhor_epoca": 72,
+    "mae_lstm": 0.11636802520164892,
+    "rmse_lstm": 1.0822435278412867,
+    "mae_baseline": 0.16611055276381909,
+    "rmse_baseline": 1.4072300030226172,
+    "paises_avaliados": 199,
+    "paises_projetados": 199,
+    "periodo_projecao": "2025-2029"
+}

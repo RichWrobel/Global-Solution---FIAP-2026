@@ -1,0 +1,191 @@
+pais,observacoes,modelo,situacao,posto,parametros,numero_condicao
+Afghanistan,24,MG,Estimado,3,3,20.24196670659902
+Albania,24,MG,Estimado,3,3,102.57183286313628
+Algeria,24,MG,Estimado,3,3,45.97742538982665
+Andorra,24,MG,Estimado,3,3,21.283762496882446
+Angola,24,MG,Estimado,3,3,29.24277922472739
+Antigua and Barbuda,24,MG,Estimado,3,3,14.136263871746706
+Argentina,24,MG,Estimado,3,3,16.721680751104515
+Armenia,24,MG,Estimado,3,3,27.87031000349883
+Australia,24,MG,Estimado,3,3,99.9335683522774
+Austria,24,MG,Estimado,3,3,44.294023453768034
+Azerbaijan,24,MG,Estimado,3,3,30.58193937604557
+Bahamas,24,MG,Matriz sem posto completo,2,3,inf
+Bahrain,24,MG,Estimado,3,3,40.56606567419637
+Bangladesh,24,MG,Estimado,3,3,117.84391958152735
+Barbados,24,MG,Estimado,3,3,17.106176901979435
+Belarus,24,MG,Estimado,3,3,24.86337260896794
+Belgium,24,MG,Estimado,3,3,49.90128629664379
+Belize,24,MG,Estimado,3,3,23.041945649900253
+Benin,24,MG,Estimado,3,3,58.39884318372317
+Bhutan,24,MG,Estimado,3,3,76.88481025147738
+Bolivia,24,MG,Estimado,3,3,38.682394477882944
+Bosnia and Herzegovina,24,MG,Estimado,3,3,57.339928012256934
+Botswana,24,MG,Estimado,3,3,26.182113753465003
+Brazil,24,MG,Estimado,3,3,39.874383681549006
+Brunei,24,MG,Estimado,3,3,40.509710016503874
+Bulgaria,24,MG,Estimado,3,3,41.50068659196114
+Burkina Faso,24,MG,Estimado,3,3,74.97543541240806
+Burundi,24,MG,Matriz sem posto completo,2,3,inf
+Cambodia,24,MG,Estimado,3,3,102.51565704749942
+Cameroon,24,MG,Estimado,3,3,112.54232676148243
+Canada,24,MG,Estimado,3,3,45.56456699871689
+Cape Verde,24,MG,Estimado,3,3,23.591041998519565
+Central African Republic,24,MG,Matriz sem posto completo,2,3,inf
+Chad,24,MG,Estimado,3,3,16.79842532780178
+Chile,24,MG,Estimado,3,3,34.17273344062162
+China,24,MG,Estimado,3,3,105.05049741305263
+Colombia,24,MG,Estimado,3,3,36.84780571706264
+Comoros,24,MG,Estimado,3,3,69.19294179830074
+Congo,24,MG,Estimado,3,3,34.02923029184116
+Costa Rica,24,MG,Estimado,3,3,43.56757126674001
+Cote d'Ivoire,24,MG,Estimado,3,3,63.054174220551694
+Croatia,24,MG,Estimado,3,3,27.493588877054243
+Cuba,24,MG,Estimado,3,3,33.289126182643265
+Cyprus,24,MG,Estimado,3,3,26.29513883442028
+Czechia,24,MG,Estimado,3,3,34.05436854838276
+Democratic Republic of Congo,24,MG,Estimado,3,3,26.3564531478853
+Denmark,24,MG,Estimado,3,3,48.001182371689595
+Djibouti,11,MG,Estimado,3,3,221.91422258382045
+Dominica,24,MG,Estimado,3,3,22.683469532073904
+Dominican Republic,24,MG,Estimado,3,3,26.596931155330356
+East Timor,24,MG,Estimado,3,3,12.149614786504038
+Ecuador,24,MG,Estimado,3,3,26.738907197163154
+Egypt,24,MG,Estimado,3,3,92.96239671638166
+El Salvador,24,MG,Estimado,3,3,61.95079313748029
+Equatorial Guinea,24,MG,Estimado,3,3,17.577195247199832
+Eritrea,11,MG,Estimado,3,3,23.391740339900934
+Estonia,24,MG,Estimado,3,3,25.34393214407337
+Eswatini,24,MG,Estimado,3,3,76.09363642345862
+Ethiopia,24,MG,Estimado,3,3,31.824422816148065
+Fiji,24,MG,Estimado,3,3,33.33142570255087
+Finland,24,MG,Estimado,3,3,38.17835182524645
+France,24,MG,Estimado,3,3,51.217568513290104
+Gabon,24,MG,Estimado,3,3,58.9674651636602
+Gambia,24,MG,Estimado,3,3,30.570681516282324
+Georgia,24,MG,Estimado,3,3,56.3683374384833
+Germany,24,MG,Estimado,3,3,42.043430709609
+Ghana,24,MG,Estimado,3,3,65.0973610530773
+Greece,24,MG,Estimado,3,3,20.50361882150933
+Grenada,24,MG,Estimado,3,3,19.15750196995642
+Guatemala,24,MG,Estimado,3,3,70.0151224482488
+Guinea,24,MG,Estimado,3,3,43.11017457540263
+Guinea-Bissau,24,MG,Estimado,3,3,47.668848782032114
+Guyana,24,MG,Estimado,3,3,30.192256837612497
+Haiti,24,MG,Estimado,3,3,35.23801082011398
+Honduras,24,MG,Estimado,3,3,44.37807991776502
+Hungary,24,MG,Estimado,3,3,33.487320487626626
+Iceland,24,MG,Estimado,3,3,27.12552376736656
+India,24,MG,Estimado,3,3,98.90562350747525
+Indonesia,24,MG,Estimado,3,3,287.1309543766491
+Iran,24,MG,Estimado,3,3,33.49351908837491
+Iraq,24,MG,Estimado,3,3,14.891964977347653
+Ireland,24,MG,Estimado,3,3,19.92507417038554
+Israel,24,MG,Estimado,3,3,42.12407897106323
+Italy,24,MG,Estimado,3,3,30.66723002283073
+Jamaica,24,MG,Estimado,3,3,42.41863253437888
+Japan,24,MG,Estimado,3,3,48.08339497439461
+Jordan,24,MG,Estimado,3,3,33.99089624029288
+Kazakhstan,24,MG,Estimado,3,3,37.76705260614076
+Kenya,24,MG,Estimado,3,3,89.05206532971198
+Kiribati,24,MG,Estimado,3,3,45.09042099416883
+Kuwait,24,MG,Estimado,3,3,18.52072076554615
+Kyrgyzstan,24,MG,Estimado,3,3,38.39601488668851
+Laos,24,MG,Estimado,3,3,54.80485330907459
+Latvia,24,MG,Estimado,3,3,19.284998816197913
+Lebanon,24,MG,Estimado,3,3,18.562856640420115
+Lesotho,24,MG,Estimado,3,3,59.303137701897825
+Liberia,24,MG,Estimado,3,3,12.492506889438259
+Libya,24,MG,Estimado,3,3,4.392929979767346
+Lithuania,24,MG,Estimado,3,3,23.351379896630288
+Luxembourg,24,MG,Matriz sem posto completo,2,3,inf
+Madagascar,24,MG,Estimado,3,3,24.10911446072205
+Malawi,24,MG,Matriz sem posto completo,2,3,inf
+Malaysia,24,MG,Estimado,3,3,36.93598424668896
+Maldives,24,MG,Estimado,3,3,34.4222724594074
+Mali,24,MG,Estimado,3,3,32.27289707976
+Malta,24,MG,Estimado,3,3,27.241840143898294
+Marshall Islands,24,MG,Estimado,3,3,99.86914616234364
+Mauritania,24,MG,Estimado,3,3,42.805839693604845
+Mauritius,24,MG,Estimado,3,3,25.55243252449331
+Mexico,24,MG,Estimado,3,3,33.42438571934965
+Micronesia (country),24,MG,Estimado,3,3,66.48059442191992
+Moldova,24,MG,Estimado,3,3,47.15268839006251
+Monaco,24,MG,Estimado,3,3,14.301814117753995
+Mongolia,24,MG,Estimado,3,3,43.91845811831401
+Montenegro,24,MG,Estimado,3,3,21.337289707933127
+Morocco,24,MG,Estimado,3,3,36.09333675245184
+Mozambique,24,MG,Estimado,3,3,35.264529836788164
+Myanmar,24,MG,Estimado,3,3,40.92980592648776
+Namibia,24,MG,Estimado,3,3,31.153490504984838
+Nauru,24,MG,Estimado,3,3,12.63107988754524
+Nepal,24,MG,Estimado,3,3,79.52998831123934
+Netherlands,24,MG,Estimado,3,3,44.265198276041005
+New Zealand,24,MG,Estimado,3,3,59.55435260648423
+Nicaragua,24,MG,Estimado,3,3,54.85317863662667
+Niger,24,MG,Estimado,3,3,37.72424703959935
+Nigeria,24,MG,Estimado,3,3,68.66558235855845
+North Macedonia,24,MG,Estimado,3,3,62.28857194351854
+Norway,24,MG,Estimado,3,3,70.2840412663455
+Oman,24,MG,Estimado,3,3,30.608544923730275
+Pakistan,24,MG,Estimado,3,3,74.33495933724274
+Palau,24,MG,Estimado,3,3,39.14519306212782
+Panama,24,MG,Estimado,3,3,19.16004993150643
+Papua New Guinea,24,MG,Estimado,3,3,29.814319667714354
+Paraguay,24,MG,Estimado,3,3,54.76983691261215
+Peru,24,MG,Estimado,3,3,52.88684662218052
+Philippines,24,MG,Estimado,3,3,51.3246101744623
+Poland,24,MG,Estimado,3,3,52.054150552508794
+Portugal,24,MG,Estimado,3,3,35.38949920932978
+Qatar,24,MG,Estimado,3,3,15.26095302725761
+Romania,24,MG,Estimado,3,3,41.729250165384514
+Russia,24,MG,Matriz sem posto completo,2,3,inf
+Rwanda,24,MG,Estimado,3,3,37.11222352329287
+Saint Kitts and Nevis,24,MG,Estimado,3,3,22.211321482529055
+Saint Lucia,24,MG,Estimado,3,3,15.078889131607204
+Saint Vincent and the Grenadines,24,MG,Estimado,3,3,36.87015652492532
+Samoa,24,MG,Estimado,3,3,59.844118852255
+San Marino,23,MG,Estimado,3,3,17.035685160490754
+Sao Tome and Principe,24,MG,Estimado,3,3,54.0973758127442
+Saudi Arabia,24,MG,Estimado,3,3,22.757755326481682
+Senegal,24,MG,Estimado,3,3,66.37001788171237
+Serbia,24,MG,Estimado,3,3,55.86178825937188
+Seychelles,24,MG,Estimado,3,3,17.459127419369
+Sierra Leone,24,MG,Estimado,3,3,16.731405218392876
+Singapore,24,MG,Matriz sem posto completo,2,3,inf
+Slovakia,24,MG,Estimado,3,3,31.101451005461794
+Slovenia,24,MG,Estimado,3,3,29.72645507888371
+Solomon Islands,24,MG,Estimado,3,3,26.12487959089446
+Somalia,24,MG,Estimado,3,3,31.328382539577017
+South Africa,24,MG,Estimado,3,3,79.80691434727284
+South Korea,24,MG,Matriz sem posto completo,2,3,inf
+Spain,24,MG,Estimado,3,3,83.6085759330169
+Sri Lanka,24,MG,Estimado,3,3,31.319415748196302
+Sudan,24,MG,Estimado,3,3,35.09771570433463
+Suriname,24,MG,Estimado,3,3,29.43456421915167
+Sweden,24,MG,Estimado,3,3,44.45445730379302
+Switzerland,24,MG,Estimado,3,3,54.23926387500444
+Syria,22,MG,Estimado,3,3,13.642588608810353
+Tajikistan,24,MG,Estimado,3,3,175.589428353913
+Tanzania,24,MG,Estimado,3,3,96.10684817144028
+Thailand,24,MG,Estimado,3,3,53.996902409363194
+Togo,24,MG,Estimado,3,3,45.74776828312625
+Tonga,24,MG,Estimado,3,3,95.74078972867747
+Trinidad and Tobago,24,MG,Estimado,3,3,19.203998263997143
+Tunisia,24,MG,Estimado,3,3,34.68508729765684
+Turkey,24,MG,Estimado,3,3,27.179263672612702
+Turkmenistan,24,MG,Estimado,3,3,35.043290183123815
+Tuvalu,24,MG,Estimado,3,3,66.06253240995154
+Uganda,24,MG,Estimado,3,3,53.008563618598764
+Ukraine,24,MG,Estimado,3,3,12.830323783154496
+United Arab Emirates,24,MG,Matriz sem posto completo,2,3,inf
+United Kingdom,24,MG,Estimado,3,3,33.0388347919373
+United States,24,MG,Estimado,3,3,57.229266132001975
+Uruguay,24,MG,Estimado,3,3,26.359450660593495
+Uzbekistan,24,MG,Estimado,3,3,71.18443859886425
+Vanuatu,24,MG,Estimado,3,3,32.125207050314344
+Venezuela,24,MG,Estimado,3,3,9.962762920143671
+Vietnam,24,MG,Estimado,3,3,264.53679811402424
+Yemen,18,MG,Estimado,3,3,15.823458825156932
+Zambia,24,MG,Estimado,3,3,56.44594336423617
+Zimbabwe,24,MG,Estimado,3,3,13.027647678848446

@@ -1,0 +1,192 @@
+pais,observacoes,anos_distintos,observacoes_suficientes_10,observacoes_suficientes_15,observacoes_suficientes_20,graus_liberdade_residuais
+Afghanistan,24,24,True,True,True,18
+Albania,24,24,True,True,True,18
+Algeria,24,24,True,True,True,18
+Andorra,24,24,True,True,True,18
+Angola,24,24,True,True,True,18
+Antigua and Barbuda,24,24,True,True,True,18
+Argentina,24,24,True,True,True,18
+Armenia,24,24,True,True,True,18
+Australia,24,24,True,True,True,18
+Austria,24,24,True,True,True,18
+Azerbaijan,24,24,True,True,True,18
+Bahamas,24,24,True,True,True,18
+Bahrain,24,24,True,True,True,18
+Bangladesh,24,24,True,True,True,18
+Barbados,24,24,True,True,True,18
+Belarus,24,24,True,True,True,18
+Belgium,24,24,True,True,True,18
+Belize,24,24,True,True,True,18
+Benin,24,24,True,True,True,18
+Bhutan,24,24,True,True,True,18
+Bolivia,24,24,True,True,True,18
+Bosnia and Herzegovina,24,24,True,True,True,18
+Botswana,24,24,True,True,True,18
+Brazil,24,24,True,True,True,18
+Brunei,24,24,True,True,True,18
+Bulgaria,24,24,True,True,True,18
+Burkina Faso,24,24,True,True,True,18
+Burundi,24,24,True,True,True,18
+Cambodia,24,24,True,True,True,18
+Cameroon,24,24,True,True,True,18
+Canada,24,24,True,True,True,18
+Cape Verde,24,24,True,True,True,18
+Central African Republic,24,24,True,True,True,18
+Chad,24,24,True,True,True,18
+Chile,24,24,True,True,True,18
+China,24,24,True,True,True,18
+Colombia,24,24,True,True,True,18
+Comoros,24,24,True,True,True,18
+Congo,24,24,True,True,True,18
+Costa Rica,24,24,True,True,True,18
+Cote d'Ivoire,24,24,True,True,True,18
+Croatia,24,24,True,True,True,18
+Cuba,24,24,True,True,True,18
+Cyprus,24,24,True,True,True,18
+Czechia,24,24,True,True,True,18
+Democratic Republic of Congo,24,24,True,True,True,18
+Denmark,24,24,True,True,True,18
+Djibouti,11,11,True,False,False,5
+Dominica,24,24,True,True,True,18
+Dominican Republic,24,24,True,True,True,18
+East Timor,24,24,True,True,True,18
+Ecuador,24,24,True,True,True,18
+Egypt,24,24,True,True,True,18
+El Salvador,24,24,True,True,True,18
+Equatorial Guinea,24,24,True,True,True,18
+Eritrea,11,11,True,False,False,5
+Estonia,24,24,True,True,True,18
+Eswatini,24,24,True,True,True,18
+Ethiopia,24,24,True,True,True,18
+Fiji,24,24,True,True,True,18
+Finland,24,24,True,True,True,18
+France,24,24,True,True,True,18
+Gabon,24,24,True,True,True,18
+Gambia,24,24,True,True,True,18
+Georgia,24,24,True,True,True,18
+Germany,24,24,True,True,True,18
+Ghana,24,24,True,True,True,18
+Greece,24,24,True,True,True,18
+Grenada,24,24,True,True,True,18
+Guatemala,24,24,True,True,True,18
+Guinea,24,24,True,True,True,18
+Guinea-Bissau,24,24,True,True,True,18
+Guyana,24,24,True,True,True,18
+Haiti,24,24,True,True,True,18
+Honduras,24,24,True,True,True,18
+Hungary,24,24,True,True,True,18
+Iceland,24,24,True,True,True,18
+India,24,24,True,True,True,18
+Indonesia,24,24,True,True,True,18
+Iran,24,24,True,True,True,18
+Iraq,24,24,True,True,True,18
+Ireland,24,24,True,True,True,18
+Israel,24,24,True,True,True,18
+Italy,24,24,True,True,True,18
+Jamaica,24,24,True,True,True,18
+Japan,24,24,True,True,True,18
+Jordan,24,24,True,True,True,18
+Kazakhstan,24,24,True,True,True,18
+Kenya,24,24,True,True,True,18
+Kiribati,24,24,True,True,True,18
+Kuwait,24,24,True,True,True,18
+Kyrgyzstan,24,24,True,True,True,18
+Laos,24,24,True,True,True,18
+Latvia,24,24,True,True,True,18
+Lebanon,24,24,True,True,True,18
+Lesotho,24,24,True,True,True,18
+Liberia,24,24,True,True,True,18
+Libya,24,24,True,True,True,18
+Lithuania,24,24,True,True,True,18
+Luxembourg,24,24,True,True,True,18
+Madagascar,24,24,True,True,True,18
+Malawi,24,24,True,True,True,18
+Malaysia,24,24,True,True,True,18
+Maldives,24,24,True,True,True,18
+Mali,24,24,True,True,True,18
+Malta,24,24,True,True,True,18
+Marshall Islands,24,24,True,True,True,18
+Mauritania,24,24,True,True,True,18
+Mauritius,24,24,True,True,True,18
+Mexico,24,24,True,True,True,18
+Micronesia (country),24,24,True,True,True,18
+Moldova,24,24,True,True,True,18
+Monaco,24,24,True,True,True,18
+Mongolia,24,24,True,True,True,18
+Montenegro,24,24,True,True,True,18
+Morocco,24,24,True,True,True,18
+Mozambique,24,24,True,True,True,18
+Myanmar,24,24,True,True,True,18
+Namibia,24,24,True,True,True,18
+Nauru,24,24,True,True,True,18
+Nepal,24,24,True,True,True,18
+Netherlands,24,24,True,True,True,18
+New Zealand,24,24,True,True,True,18
+Nicaragua,24,24,True,True,True,18
+Niger,24,24,True,True,True,18
+Nigeria,24,24,True,True,True,18
+North Macedonia,24,24,True,True,True,18
+Norway,24,24,True,True,True,18
+Oman,24,24,True,True,True,18
+Pakistan,24,24,True,True,True,18
+Palau,24,24,True,True,True,18
+Panama,24,24,True,True,True,18
+Papua New Guinea,24,24,True,True,True,18
+Paraguay,24,24,True,True,True,18
+Peru,24,24,True,True,True,18
+Philippines,24,24,True,True,True,18
+Poland,24,24,True,True,True,18
+Portugal,24,24,True,True,True,18
+Qatar,24,24,True,True,True,18
+Romania,24,24,True,True,True,18
+Russia,24,24,True,True,True,18
+Rwanda,24,24,True,True,True,18
+Saint Kitts and Nevis,24,24,True,True,True,18
+Saint Lucia,24,24,True,True,True,18
+Saint Vincent and the Grenadines,24,24,True,True,True,18
+Samoa,24,24,True,True,True,18
+San Marino,23,23,True,True,True,17
+Sao Tome and Principe,24,24,True,True,True,18
+Saudi Arabia,24,24,True,True,True,18
+Senegal,24,24,True,True,True,18
+Serbia,24,24,True,True,True,18
+Seychelles,24,24,True,True,True,18
+Sierra Leone,24,24,True,True,True,18
+Singapore,24,24,True,True,True,18
+Slovakia,24,24,True,True,True,18
+Slovenia,24,24,True,True,True,18
+Solomon Islands,24,24,True,True,True,18
+Somalia,24,24,True,True,True,18
+South Africa,24,24,True,True,True,18
+South Korea,24,24,True,True,True,18
+South Sudan,7,7,False,False,False,1
+Spain,24,24,True,True,True,18
+Sri Lanka,24,24,True,True,True,18
+Sudan,24,24,True,True,True,18
+Suriname,24,24,True,True,True,18
+Sweden,24,24,True,True,True,18
+Switzerland,24,24,True,True,True,18
+Syria,22,22,True,True,True,16
+Tajikistan,24,24,True,True,True,18
+Tanzania,24,24,True,True,True,18
+Thailand,24,24,True,True,True,18
+Togo,24,24,True,True,True,18
+Tonga,24,24,True,True,True,18
+Trinidad and Tobago,24,24,True,True,True,18
+Tunisia,24,24,True,True,True,18
+Turkey,24,24,True,True,True,18
+Turkmenistan,24,24,True,True,True,18
+Tuvalu,24,24,True,True,True,18
+Uganda,24,24,True,True,True,18
+Ukraine,24,24,True,True,True,18
+United Arab Emirates,24,24,True,True,True,18
+United Kingdom,24,24,True,True,True,18
+United States,24,24,True,True,True,18
+Uruguay,24,24,True,True,True,18
+Uzbekistan,24,24,True,True,True,18
+Vanuatu,24,24,True,True,True,18
+Venezuela,24,24,True,True,True,18
+Vietnam,24,24,True,True,True,18
+Yemen,18,18,True,True,False,12
+Zambia,24,24,True,True,True,18
+Zimbabwe,24,24,True,True,True,18

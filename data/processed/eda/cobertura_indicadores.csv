@@ -1,0 +1,6 @@
+﻿indicador,observacoes_validas,observacoes_ausentes,cobertura_percentual,valor_minimo,valor_maximo,media,mediana
+acesso_eletricidade,7140,13747,34.18,0.53389853,100.0,82.15995697779131,99.3
+combustiveis_limpos,5375,15512,25.73,0.0,100.0,64.39311627906977,84.0
+escolaridade,3699,17188,17.71,0.0,13.74,3.8132867815114895,2.76
+mortalidade_infantil,17066,3821,81.71,0.13,78.09,10.656250439470293,6.49
+pib_per_capita,12384,8503,59.29,122.6789,247170.11,12434.41530989341,4089.5436

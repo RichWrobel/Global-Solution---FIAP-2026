@@ -1,0 +1,263 @@
+﻿Entity,anos_disponiveis,acesso_eletricidade,combustiveis_limpos,escolaridade,mortalidade_infantil,pib_per_capita,indicadores_com_dados
+Afghanistan,86,25,25,31,68,25,5
+Africa,75,0,0,31,54,0,2
+Africa (WHO),25,0,25,0,0,0,1
+Albania,70,35,25,31,47,46,5
+Algeria,89,25,25,31,71,66,5
+American Samoa,21,0,0,0,0,21,1
+Americas (WHO),25,0,25,0,0,0,1
+Andorra,56,35,25,0,40,56,4
+Angola,46,25,25,0,45,46,4
+Anguilla,40,0,0,0,40,0,1
+Antigua and Barbuda,77,35,25,0,76,49,4
+Argentina,123,35,25,31,109,66,5
+Armenia,50,25,25,2,49,36,5
+Aruba,39,35,0,0,0,39,2
+Asia,72,0,0,31,51,0,2
+Australia,156,35,25,31,155,66,5
+Australia and New Zealand (UN),25,0,25,0,0,0,1
+Austria,193,35,25,31,191,66,5
+Azerbaijan,44,26,25,0,43,36,4
+Bahamas,65,35,25,0,57,65,4
+Bahrain,71,35,25,2,70,56,5
+Bangladesh,92,34,25,31,75,66,5
+Barbados,128,35,25,31,119,66,5
+Belarus,68,35,25,0,67,36,4
+Belgium,192,35,25,31,191,66,5
+Belize,84,34,25,31,58,66,5
+Benin,96,29,25,31,80,66,5
+Bermuda,65,35,0,0,0,65,2
+Bhutan,58,25,25,0,57,56,4
+Bolivia,84,33,25,31,65,66,5
+Bosnia and Herzegovina,45,35,25,0,44,36,4
+Botswana,72,34,25,2,71,66,5
+Brazil,108,35,25,31,94,66,5
+British Virgin Islands,70,35,0,0,70,0,2
+Brunei,81,35,25,2,80,52,5
+Bulgaria,95,35,25,31,78,46,5
+Burkina Faso,82,32,25,0,81,66,4
+Burundi,67,27,25,2,66,66,5
+Cambodia,72,27,25,31,50,51,5
+Cameroon,90,34,25,31,72,66,5
+Canada,131,35,25,31,123,66,5
+Cape Verde,81,25,25,0,80,46,4
+Cayman Islands,35,35,0,0,0,19,2
+Central African Republic,67,30,25,2,66,66,5
+Central Asia (UN),25,0,25,0,0,0,1
+Central and Southern Asia (UN),25,0,25,0,0,0,1
+Chad,82,28,25,0,81,66,4
+Channel Islands,35,35,0,0,0,15,2
+Chile,132,35,25,31,124,66,5
+China,86,25,25,31,65,66,5
+Colombia,112,35,25,31,100,66,5
+Comoros,58,29,25,0,57,46,4
+Congo,82,25,25,2,81,66,5
+Cook Islands,74,0,25,0,74,0,2
+Costa Rica,93,25,25,31,76,66,5
+Cote d'Ivoire,88,31,25,31,70,66,5
+Croatia,48,35,25,2,47,36,5
+Cuba,103,25,25,31,89,55,5
+Curacao,35,35,0,0,0,25,2
+Cyprus,76,35,25,31,56,51,5
+Czechia,93,35,25,31,76,36,5
+Democratic Republic of Congo,84,25,25,31,57,66,5
+Denmark,191,35,25,31,190,66,5
+Djibouti,50,29,25,0,49,13,4
+Dominica,66,27,25,0,65,49,4
+Dominican Republic,92,34,25,31,75,66,5
+East Asia and Pacific (WB),66,25,0,0,0,66,2
+East Timor,43,25,25,0,42,36,4
+Eastern Asia (UN),25,0,25,0,0,0,1
+Eastern Asia and South-Eastern Asia (UN),25,0,25,0,0,0,1
+Eastern Mediterranean (WHO),25,0,25,0,0,0,1
+Ecuador,88,30,25,31,70,66,5
+Egypt,88,33,25,31,70,66,5
+El Salvador,88,34,25,31,70,61,5
+Equatorial Guinea,46,25,25,0,43,46,4
+Eritrea,56,30,25,0,56,20,4
+Estonia,68,35,25,2,67,36,5
+Eswatini,93,25,25,31,76,56,5
+Ethiopia,65,25,25,0,59,65,4
+Europe,73,0,0,31,52,0,2
+Europe (WHO),25,0,25,0,0,0,1
+Europe and Central Asia (WB),66,35,0,0,0,66,2
+European Union (27),66,35,0,0,52,66,3
+Faroe Islands,35,35,0,0,0,17,2
+Fiji,100,29,25,31,85,66,5
+Finland,160,35,25,31,159,66,5
+France,210,35,25,31,209,66,5
+French Polynesia,60,35,0,0,0,60,2
+Gabon,82,25,25,2,81,66,5
+Gambia,88,32,25,31,69,60,5
+Georgia,66,25,25,0,50,66,4
+Germany,172,35,25,31,162,66,5
+Ghana,107,32,25,31,93,66,5
+Gibraltar,35,35,0,0,0,0,1
+Greece,109,35,25,31,96,66,5
+Greenland,55,35,0,0,0,54,2
+Grenada,77,27,25,0,76,49,4
+Guam,35,35,0,0,0,21,2
+Guatemala,87,30,25,31,68,66,5
+Guinea,89,26,25,0,88,56,4
+Guinea-Bissau,76,23,25,0,75,56,4
+Guyana,130,32,25,31,122,66,5
+Haiti,88,30,25,31,69,66,5
+High-income countries,66,35,0,0,62,66,3
+Honduras,88,34,25,31,69,66,5
+Hong Kong,84,35,0,31,0,65,3
+Hungary,149,35,25,31,143,66,5
+Iceland,188,35,25,31,187,66,5
+India,118,32,25,31,108,66,5
+Indonesia,92,34,25,31,74,66,5
+Iran,85,25,25,31,59,66,5
+Iraq,99,25,25,31,83,66,5
+Ireland,161,35,25,31,160,66,5
+Isle of Man,41,35,0,0,0,40,2
+Israel,104,35,25,2,103,66,5
+Italy,155,35,25,31,153,66,5
+Jamaica,149,35,25,31,146,60,5
+Japan,114,35,25,31,102,66,5
+Jordan,96,35,25,31,80,50,5
+Kazakhstan,55,30,25,2,54,36,5
+Kenya,92,32,25,31,75,66,5
+Kiribati,80,25,25,0,79,56,4
+Kosovo,41,10,0,0,40,18,3
+Kuwait,85,35,25,31,66,56,5
+Kyrgyzstan,56,28,25,2,55,40,5
+Laos,49,32,25,2,48,42,5
+Latin America and Caribbean (WB),66,33,0,0,0,66,2
+Latin America and the Caribbean (UN),25,0,25,0,0,0,1
+Latvia,68,35,25,2,67,36,5
+Lebanon,69,25,25,0,69,37,4
+Lesotho,92,25,25,31,75,66,5
+Liberia,89,18,25,31,71,66,5
+Libya,88,25,25,31,69,66,5
+Liechtenstein,35,35,0,0,0,1,2
+Lithuania,68,35,25,2,67,36,5
+Low-income countries,59,25,0,0,51,59,3
+Lower-middle-income countries,66,32,0,0,65,66,3
+Luxembourg,93,35,25,31,76,66,5
+Macao,44,35,0,2,0,44,3
+Madagascar,66,33,25,0,60,66,4
+Malawi,84,33,25,31,64,66,5
+Malaysia,92,25,25,31,75,66,5
+Maldives,64,25,25,2,63,56,5
+Mali,84,29,25,31,65,59,5
+Malta,92,35,25,31,75,56,5
+Marshall Islands,67,26,25,0,66,56,4
+Mauritania,86,25,25,2,85,65,5
+Mauritius,155,35,25,31,152,66,5
+Mexico,92,33,25,31,74,66,5
+Micronesia (country),68,25,25,0,67,56,4
+"Middle East, North Africa, Afghanistan and Pakistan (WB)",66,25,0,0,0,66,2
+Moldova,55,35,25,2,54,36,5
+Monaco,55,35,25,0,40,55,4
+Mongolia,48,25,25,2,47,45,5
+Montenegro,42,35,25,0,41,29,4
+Montserrat,67,0,0,0,67,0,1
+Morocco,89,33,25,31,71,60,5
+Mozambique,83,28,25,31,63,46,5
+Myanmar,84,25,25,31,58,66,5
+Namibia,60,33,25,2,59,46,5
+Nauru,56,35,25,0,40,56,4
+Nepal,92,29,25,31,75,66,5
+Netherlands,186,35,25,31,185,66,5
+New Caledonia,35,35,0,0,0,1,2
+New Zealand,164,35,25,31,163,66,5
+Nicaragua,88,32,25,31,70,66,5
+Niger,84,33,25,31,58,66,5
+Nigeria,66,35,25,0,63,66,4
+Niue,82,0,25,0,82,0,2
+North America,85,0,0,31,67,0,2
+North America (WB),66,35,0,0,0,66,2
+North Korea,75,16,25,0,75,0,3
+North Macedonia,47,35,25,0,46,36,4
+Northern Africa (UN),25,0,25,0,0,0,1
+Northern Africa and Western Asia (UN),25,0,25,0,0,0,1
+Northern America and Europe (UN),25,0,25,0,0,0,1
+Northern Mariana Islands,35,35,0,0,0,21,2
+Norway,190,35,25,31,189,66,5
+Oceania,70,0,0,2,70,0,2
+Oceania (exc. Australia and New Zealand) (UN),25,0,25,0,0,0,1
+Oman,67,35,25,0,66,66,4
+Pakistan,92,27,25,31,75,66,5
+Palau,61,35,25,0,60,56,4
+Palestine,51,28,0,0,50,32,3
+Panama,92,35,25,31,75,66,5
+Papua New Guinea,78,29,25,2,77,66,5
+Paraguay,92,30,25,31,74,66,5
+Peru,91,33,25,31,73,66,5
+Philippines,92,32,25,31,75,66,5
+Poland,106,35,25,31,91,36,5
+Portugal,121,35,25,31,112,66,5
+Puerto Rico,66,35,0,0,0,66,2
+Qatar,59,35,25,2,58,56,5
+Reunion,31,0,0,31,0,0,1
+Romania,152,35,25,31,149,36,5
+Russia,122,35,25,31,112,37,5
+Rwanda,72,29,25,2,71,66,5
+Saint Kitts and Nevis,56,35,25,0,55,49,4
+Saint Lucia,76,25,25,0,75,49,4
+Saint Martin (French part),35,35,0,0,0,0,1
+Saint Vincent and the Grenadines,66,34,25,0,56,66,4
+Samoa,86,34,25,0,85,56,4
+San Marino,40,35,25,0,40,27,4
+Sao Tome and Principe,61,25,25,0,60,56,4
+Saudi Arabia,66,35,25,2,56,66,5
+Senegal,97,32,25,31,81,66,5
+Serbia,84,35,25,31,65,31,5
+Seychelles,83,31,25,0,82,66,4
+Sierra Leone,88,25,25,31,69,66,5
+Singapore,94,35,25,2,93,66,5
+Sint Maarten (Dutch part),36,35,0,0,0,17,2
+Slovakia,77,35,25,2,76,36,5
+Slovenia,48,35,25,2,47,36,5
+Solomon Islands,83,26,25,0,82,46,4
+Somalia,66,25,25,0,43,66,4
+South Africa,84,29,25,31,51,66,5
+South America,83,0,0,31,65,0,2
+South Asia (WB),66,32,0,0,0,66,2
+South Korea,92,35,25,31,75,66,5
+South Sudan,71,18,25,0,71,8,4
+South-East Asia (WHO),25,0,25,0,0,0,1
+South-Eastern Asia (UN),25,0,25,0,0,0,1
+Southern Asia (UN),25,0,25,0,0,0,1
+Spain,153,35,25,31,149,66,5
+Sri Lanka,92,25,25,31,75,65,5
+Sub-Saharan Africa (UN),25,0,25,0,0,0,1
+Sub-Saharan Africa (WB),66,29,0,0,0,66,2
+Sudan,90,35,25,31,72,66,5
+Suriname,66,26,25,0,43,66,4
+Sweden,275,35,25,31,274,66,5
+Switzerland,152,35,25,31,149,66,5
+Syria,91,25,25,31,75,63,5
+Taiwan,63,0,0,31,41,0,2
+Tajikistan,54,26,25,2,53,41,5
+Tanzania,75,33,25,2,74,66,5
+Thailand,93,25,25,31,76,66,5
+Togo,97,27,25,31,81,66,5
+Tonga,63,31,25,2,62,45,5
+Trinidad and Tobago,116,25,25,31,104,66,5
+Tunisia,84,31,25,31,64,65,5
+Turkey,90,25,25,31,72,66,5
+Turkmenistan,49,25,25,0,48,39,4
+Turks and Caicos Islands,66,35,0,0,66,18,3
+Tuvalu,72,25,25,0,71,56,4
+Uganda,90,32,25,31,72,44,5
+Ukraine,55,35,25,2,54,39,5
+United Arab Emirates,65,35,25,2,65,55,5
+United Kingdom,185,35,25,31,184,66,5
+United States,106,35,25,31,92,66,5
+United States Virgin Islands,35,35,0,0,0,21,2
+Upper-middle-income countries,66,25,0,0,51,66,3
+Uruguay,116,33,25,31,103,66,5
+Uzbekistan,47,29,25,0,46,39,4
+Vanuatu,74,31,25,0,73,47,4
+Venezuela,107,33,25,31,94,66,5
+Vietnam,67,28,25,2,66,42,5
+Western Asia (UN),25,0,25,0,0,0,1
+Western Pacific (WHO),25,0,25,0,0,0,1
+World,226,27,25,31,225,66,5
+Yemen,90,33,25,31,73,29,5
+Zambia,91,35,25,31,73,66,5
+Zimbabwe,90,33,25,31,72,66,5

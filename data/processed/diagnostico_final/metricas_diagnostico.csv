@@ -1,0 +1,13 @@
+﻿diagnostico,estatistica,p_valor
+Observacoes,4532.0,
+Entidades,191.0,
+Durbin_Watson,2.7833126277345626,
+Correlacao_residuos_consecutivos,-0.3952734686520587,
+Breusch_Pagan_LM,22.796270784382013,0.5894585924848159
+Breusch_Pagan_F,0.9112029734996481,0.5903718658714798
+Jarque_Bera,74169311.96432224,0.0
+Assimetria_residuos,-2.1528171586951115,
+Curtose_residuos,629.7041146976052,
+Numero_condicao,34.20580211651307,
+Residuos_padronizados_acima_3,21.0,
+Observacoes_Cook_acima_4_n,31.0,

@@ -1,0 +1,51 @@
+﻿pais_a,pais_b,observacoes_comuns,correlacao,cenario,correlacao_absoluta
+France,Japan,24,0.9982010406558899,Principal_completo,0.9982010406558899
+Belgium,Switzerland,24,0.9979052439059549,Principal_completo,0.9979052439059549
+Belgium,Germany,24,0.997838645935798,Principal_completo,0.997838645935798
+Belgium,Netherlands,24,0.9978378948789504,Principal_completo,0.9978378948789504
+Netherlands,Switzerland,24,0.9977615780635893,Principal_completo,0.9977615780635893
+France,Netherlands,24,0.9976591680744272,Principal_completo,0.9976591680744272
+Bahrain,Djibouti,11,0.9975839095518848,Principal_completo,0.9975839095518848
+Italy,Japan,24,0.99732149132128,Principal_completo,0.99732149132128
+Germany,Netherlands,24,0.9972798234084732,Principal_completo,0.9972798234084732
+France,Switzerland,24,0.9972762292033652,Principal_completo,0.9972762292033652
+Israel,Italy,24,0.997237190247986,Principal_completo,0.997237190247986
+Norway,United States,24,0.9970415659937624,Principal_completo,0.9970415659937624
+Djibouti,Honduras,11,0.9969523540403007,Principal_completo,0.9969523540403007
+Luxembourg,Netherlands,24,0.9968546283236184,Principal_completo,0.9968546283236184
+Belgium,Norway,24,0.9967825551842818,Principal_completo,0.9967825551842818
+Norway,Switzerland,24,0.9967109186938398,Principal_completo,0.9967109186938398
+Denmark,Netherlands,24,0.9966984249284212,Principal_completo,0.9966984249284212
+France,Italy,24,0.996697529916149,Principal_completo,0.996697529916149
+Belgium,France,24,0.9966847917405042,Principal_completo,0.9966847917405042
+France,Germany,24,0.9966656097000419,Principal_completo,0.9966656097000419
+Japan,Netherlands,24,0.9966303572686928,Principal_completo,0.9966303572686928
+Belgium,Japan,24,0.9966032040513516,Principal_completo,0.9966032040513516
+France,United States,24,0.9965343296603499,Principal_completo,0.9965343296603499
+Israel,Switzerland,24,0.9965206698148348,Principal_completo,0.9965206698148348
+Netherlands,Norway,24,0.9965060340960208,Principal_completo,0.9965060340960208
+Japan,United States,24,0.9964485811540046,Principal_completo,0.9964485811540046
+Belgium,Luxembourg,24,0.9963812976028242,Principal_completo,0.9963812976028242
+Belgium,Italy,24,0.9963660313839222,Principal_completo,0.9963660313839222
+Germany,Luxembourg,24,0.9963248352098608,Principal_completo,0.9963248352098608
+Japan,Switzerland,24,0.996304162610232,Principal_completo,0.996304162610232
+Germany,Japan,24,0.9963020682219343,Principal_completo,0.9963020682219343
+Italy,Switzerland,24,0.9962598970896883,Principal_completo,0.9962598970896883
+Germany,Switzerland,24,0.9961558982143176,Principal_completo,0.9961558982143176
+Denmark,France,24,0.9960637007065986,Principal_completo,0.9960637007065986
+Belgium,Sweden,24,0.9960104769188552,Principal_completo,0.9960104769188552
+Poland,Slovakia,24,0.9959188051817964,Principal_completo,0.9959188051817964
+Belgium,Denmark,24,0.9959140831953772,Principal_completo,0.9959140831953772
+Netherlands,United States,24,0.9958712098535191,Principal_completo,0.9958712098535191
+Denmark,Japan,24,0.9958381971210536,Principal_completo,0.9958381971210536
+Israel,Netherlands,24,0.9957989230646045,Principal_completo,0.9957989230646045
+Switzerland,United States,24,0.995792584061448,Principal_completo,0.995792584061448
+France,Greece,24,0.9957695821279036,Principal_completo,0.9957695821279036
+Denmark,South Korea,24,0.995686193334326,Principal_completo,0.995686193334326
+Austria,Japan,24,0.9956177844391751,Principal_completo,0.9956177844391751
+Belgium,United States,24,0.9955524180082045,Principal_completo,0.9955524180082045
+Italy,Netherlands,24,0.9955361907784148,Principal_completo,0.9955361907784148
+Denmark,Norway,24,0.9955139435364672,Principal_completo,0.9955139435364672
+Canada,New Zealand,24,0.9954533378703387,Principal_completo,0.9954533378703387
+Netherlands,Sweden,24,0.9954499854462869,Principal_completo,0.9954499854462869
+Denmark,Germany,24,0.9954297161542967,Principal_completo,0.9954297161542967
